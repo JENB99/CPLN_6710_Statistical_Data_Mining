@@ -1,6 +1,6 @@
 # Welcome to Our Github Repo for Statistical Data Mining (Spring 2026)!
 
-Using this repo, our group will collaboratively complete and upload each data analysis assignment
+Using this repo, our group will collaboratively complete and upload each data analysis assignment for CPLN 6710 Statistical Data Mining. 
 
 ## Link to our website:
 
