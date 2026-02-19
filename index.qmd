@@ -1,22 +1,18 @@
 ---
-title: "MUSA 5080 Portfolio"
+title: "CPLN 6710 Statistical Data Mining "
 ---
 
-# Welcome to My Portfolio
+# Welcome to Our Statistical Data Mining Project Portfolio
 
-This portfolio documents my learning journey in Public Policy Analytics (MUSA 5080).
+We're a group of Univeristy of Pennsylvania Master of City Planning Candidates using github to share our coursework! Upon completing each project, our team will post the final deliverables here to be evaluated. Access to the .qdm files are availble via our github repo. 
 
-## About This Course
-Advanced spatial analysis and data science for urban planning and public policy.
+## About our course Course
+[CPLN 6710] hands-on course will cover a wide range of methods frequently used for analyzing urban and spatial data. These methods are drawn from a variety of fields, including traditional statistics, spatial econometrics, and machine learning, and include 1) regression analysis (OLS, ridge/lasso, logistic, multinomial logit); 2) measures of spatial autocorrelation; 3) spatial regression (spatial lag, spatial error, geographically weighted regression); 4) point pattern analysis; 5) an introduction to clustering methods (k-means, hierarchical clustering, DBSCAN); and 6) big data and GIS. Students will learn the assumptions and limitations of each method, and assignments will focus on the implementation, presentation and interpretation of the analyses. Students will use R and GeoDa in this course.
 
-## Portfolio Structure
-- **Weekly Notes:** My learning reflections and key concepts
-- **Labs:** Completed assignments and analyses
-- **Final Project:** Capstone modeling challenge
+Taken From University of Pennsylvania, Weitzman School of Design https://www.design.upenn.edu/courses/musa-5000cpln-6710
 
-## About Me
-[Students will customize this section]
 
-## Contact
-- Email: [your.email@upenn.edu]
-- GitHub: [@your-username]
+## About Our Teamn
+[Team will customize this section]
+
+
