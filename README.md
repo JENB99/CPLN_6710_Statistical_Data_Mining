@@ -12,7 +12,7 @@ Using this repo, our group will collaboratively complete and upload each data an
 | Name | Contact | Github account |
 | --- | --- | --- |
 | Jenny | Row 1 Col 2 | Row 1 Col 3 |
-| Maud | Row 2 Col 2 | Row 2 Col 3 |
+| Maude | Row 2 Col 2 | Row 2 Col 3 |
 | Shubhanga | Row 2 Col 2 | Row 2 Col 3 |
 
   
